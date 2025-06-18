@@ -1,0 +1,14 @@
+[
+    {
+        "@id": "/.well-known/genid/ffdfacebc02e6aa99a7a",
+        "@type": "MarketplaceOffer",
+        "card": "/cards/ALT_ALIZE_B_AX_32_U_21246",
+        "convertedCurrency": "EUR",
+        "convertedPrice": 45,
+        "currency": "EUR",
+        "offerId": "01J7X7171X2X94ACEZ0TCV76DR",
+        "price": 45,
+        "quantity": 1,
+        "status": "available"
+    }
+]

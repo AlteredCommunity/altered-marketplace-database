@@ -1,0 +1,14 @@
+[
+    {
+        "@id": "/.well-known/genid/ef120101258a7ed6afca",
+        "@type": "MarketplaceOffer",
+        "card": "/cards/ALT_CORE_B_BR_08_U_6998",
+        "convertedCurrency": "EUR",
+        "convertedPrice": 50,
+        "currency": "EUR",
+        "offerId": "01J50VYYYX3T5BWNERGXCNGZPR",
+        "price": 50,
+        "quantity": 1,
+        "status": "available"
+    }
+]
