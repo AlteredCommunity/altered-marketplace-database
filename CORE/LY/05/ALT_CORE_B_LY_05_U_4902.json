@@ -4,12 +4,13 @@
         "@type": "MarketplaceOffer",
         "card": "/cards/ALT_CORE_B_LY_05_U_4902",
         "convertedCurrency": "EUR",
-        "convertedPrice": 20,
+        "convertedPrice": 15,
         "created": "2025-06-18 08:00:00",
         "currency": "EUR",
         "offerId": "01J0M3P6XZC3M4CQJ54WJ5FAZC",
-        "price": 20,
+        "price": 15,
         "quantity": 1,
-        "status": "available"
+        "status": "available",
+        "updated": "2025-06-19 12:13:40"
     }
 ]
