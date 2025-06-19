@@ -4,12 +4,13 @@
         "@type": "MarketplaceOffer",
         "card": "/cards/ALT_ALIZE_B_BR_35_U_17631",
         "convertedCurrency": "EUR",
-        "convertedPrice": 25,
+        "convertedPrice": 15,
         "created": "2025-06-18 08:00:00",
         "currency": "EUR",
         "offerId": "01HQXD6R49RBKZHFAW1F8WKGZ5",
-        "price": 25,
+        "price": 15,
         "quantity": 1,
-        "status": "available"
+        "status": "available",
+        "updated": "2025-06-19 11:57:36"
     }
 ]
