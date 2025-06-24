@@ -4,12 +4,13 @@
         "@type": "MarketplaceOffer",
         "card": "/cards/ALT_COREKS_B_OR_13_U_5078",
         "convertedCurrency": "EUR",
-        "convertedPrice": 25,
+        "convertedPrice": 120,
         "created": "2025-06-18 08:00:00",
         "currency": "EUR",
         "offerId": "01HM1GC4XH9C0HZSQ7A5Y13SGH",
-        "price": 25,
+        "price": 120,
         "quantity": 1,
-        "status": "available"
+        "status": "available",
+        "updated": "2025-06-24 06:36:39"
     }
 ]
