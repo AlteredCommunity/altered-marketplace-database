@@ -1,0 +1,16 @@
+[
+    {
+        "@id": "/.well-known/genid/b29e4af7640d8b0ddf42",
+        "@type": "MarketplaceOffer",
+        "card": "/cards/ALT_CORE_B_AX_18_U_6565",
+        "convertedCurrency": "EUR",
+        "convertedPrice": 99.5,
+        "created": "2025-06-25 17:02:32",
+        "currency": "EUR",
+        "offerId": "01J4FDEJRTH2CNFHG976C55AJC",
+        "price": 99.5,
+        "quantity": 1,
+        "status": "available",
+        "updated": null
+    }
+]
