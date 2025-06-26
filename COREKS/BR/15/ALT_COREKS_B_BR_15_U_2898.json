@@ -1,0 +1,16 @@
+[
+    {
+        "@id": "/.well-known/genid/beef3873f53bbce8c2cb",
+        "@type": "MarketplaceOffer",
+        "card": "/cards/ALT_COREKS_B_BR_15_U_2898",
+        "convertedCurrency": "EUR",
+        "convertedPrice": 170.8,
+        "created": "2025-06-26 16:54:16",
+        "currency": "USD",
+        "offerId": "01HPTESRP4KMHPDWNG68PQ1E0Y",
+        "price": 200,
+        "quantity": 1,
+        "status": "available",
+        "updated": null
+    }
+]
