@@ -1,0 +1,16 @@
+[
+    {
+        "@id": "/.well-known/genid/4bb7d0ddd2b86d930890",
+        "@type": "MarketplaceOffer",
+        "card": "/cards/ALT_CYCLONE_B_AX_67_U_9972",
+        "convertedCurrency": "EUR",
+        "convertedPrice": 50,
+        "created": "2025-10-01 02:01:05",
+        "currency": "EUR",
+        "offerId": "01J7H2HQRFSJHYQWYGSV965TK7",
+        "price": 50,
+        "quantity": 1,
+        "status": "available",
+        "updated": null
+    }
+]
