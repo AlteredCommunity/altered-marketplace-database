@@ -1,0 +1,16 @@
+[
+    {
+        "@id": "/.well-known/genid/789ad774bcfb86dc976e",
+        "@type": "MarketplaceOffer",
+        "card": "/cards/ALT_COREKS_B_YZ_13_U_4973",
+        "convertedCurrency": "EUR",
+        "convertedPrice": 10,
+        "created": "2026-01-17 03:53:27",
+        "currency": "EUR",
+        "offerId": "01J80SYSBC85CBN477PZV66G7H",
+        "price": 10,
+        "quantity": 1,
+        "status": "available",
+        "updated": null
+    }
+]
