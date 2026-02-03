@@ -1,0 +1,16 @@
+[
+    {
+        "@id": "/.well-known/genid/1c2b2fd42ec97ed912b4",
+        "@type": "MarketplaceOffer",
+        "card": "/cards/ALT_BISE_B_MU_52_U_21970",
+        "convertedCurrency": "EUR",
+        "convertedPrice": 10,
+        "created": "2026-02-03 04:23:15",
+        "currency": "EUR",
+        "offerId": "01JM718S9Q3G7WPMNR0RYTPHV5",
+        "price": 10,
+        "quantity": 1,
+        "status": "available",
+        "updated": null
+    }
+]
