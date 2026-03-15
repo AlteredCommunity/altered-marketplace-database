@@ -1,0 +1,16 @@
+[
+    {
+        "@id": "/.well-known/genid/5abea5fa3741762472ea",
+        "@type": "MarketplaceOffer",
+        "card": "/cards/ALT_DUSTER_B_MU_87_U_211",
+        "convertedCurrency": "EUR",
+        "convertedPrice": 30,
+        "created": "2026-03-15 18:37:32",
+        "currency": "EUR",
+        "offerId": "01J9BM1WR3Y9SHSB9FM6RAH373",
+        "price": 30,
+        "quantity": 1,
+        "status": "available",
+        "updated": null
+    }
+]
