@@ -1,0 +1,16 @@
+[
+    {
+        "@id": "/.well-known/genid/12f34b52c91f26c7d003",
+        "@type": "MarketplaceOffer",
+        "card": "/cards/ALT_CYCLONE_B_OR_75_U_5174",
+        "convertedCurrency": "EUR",
+        "convertedPrice": 40,
+        "created": "2026-03-18 02:46:14",
+        "currency": "EUR",
+        "offerId": "01HPVQWAP4ZJJH05T1ZJXQHA99",
+        "price": 40,
+        "quantity": 1,
+        "status": "available",
+        "updated": null
+    }
+]
