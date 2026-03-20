@@ -1,0 +1,16 @@
+[
+    {
+        "@id": "/.well-known/genid/a54b56b34bacfd271eaa",
+        "@type": "MarketplaceOffer",
+        "card": "/cards/ALT_BISE_B_YZ_56_U_9406",
+        "convertedCurrency": "EUR",
+        "convertedPrice": 100,
+        "created": "2026-03-20 11:07:28",
+        "currency": "EUR",
+        "offerId": "01HNE4G2E2S8TDEC0Y7GEY381J",
+        "price": 100,
+        "quantity": 1,
+        "status": "available",
+        "updated": null
+    }
+]
