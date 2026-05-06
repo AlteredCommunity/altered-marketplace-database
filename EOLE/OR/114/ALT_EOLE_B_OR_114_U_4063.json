@@ -1,0 +1,16 @@
+[
+    {
+        "@id": "/.well-known/genid/a2b17c519897550bd173",
+        "@type": "MarketplaceOffer",
+        "card": "/cards/ALT_EOLE_B_OR_114_U_4063",
+        "convertedCurrency": "EUR",
+        "convertedPrice": 213.07,
+        "created": "2026-05-01 02:31:08",
+        "currency": "USD",
+        "offerId": "01JV6NYA4PNH1JVCCBD223NH20",
+        "price": 250,
+        "quantity": 1,
+        "status": "sold",
+        "updated": null
+    }
+]

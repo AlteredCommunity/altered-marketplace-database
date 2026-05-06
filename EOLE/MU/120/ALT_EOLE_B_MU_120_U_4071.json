@@ -1,0 +1,16 @@
+[
+    {
+        "@id": "/.well-known/genid/fed42e6904667a6415ad",
+        "@type": "MarketplaceOffer",
+        "card": "/cards/ALT_EOLE_B_MU_120_U_4071",
+        "convertedCurrency": "EUR",
+        "convertedPrice": 10,
+        "created": "2026-04-29 02:39:47",
+        "currency": "EUR",
+        "offerId": "01HKQTBFCZQTK2VXWCDKMM75FK",
+        "price": 10,
+        "quantity": 1,
+        "status": "available",
+        "updated": "2026-05-06 02:04:07"
+    }
+]
