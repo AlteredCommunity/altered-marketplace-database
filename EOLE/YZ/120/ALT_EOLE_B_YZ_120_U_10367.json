@@ -1,0 +1,16 @@
+[
+    {
+        "@id": "/.well-known/genid/aea6f44da594859bb3f2",
+        "@type": "MarketplaceOffer",
+        "card": "/cards/ALT_EOLE_B_YZ_120_U_10367",
+        "convertedCurrency": "EUR",
+        "convertedPrice": 15,
+        "created": "2026-05-08 02:38:54",
+        "currency": "EUR",
+        "offerId": "01J8WGW6A84MMTVH6AQRY0QAA8",
+        "price": 15,
+        "quantity": 1,
+        "status": "available",
+        "updated": "2026-05-12 02:08:45"
+    }
+]
